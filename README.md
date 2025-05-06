@@ -9,5 +9,4 @@ This repository is a personal record of my learning journey in large language mo
 - Weekly notes and project reports
 
 ## About me
-- Undergraduate, Software Engineering @ Tianjin University
 - [GitHub Profile](https://github.com/kfzshere)
